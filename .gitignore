@@ -1,0 +1,7 @@
+index.html
+*.json
+*.png
+*.exe
+__pycache__
+build
+dist
